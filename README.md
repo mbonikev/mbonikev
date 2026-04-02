@@ -1,21 +1,17 @@
+<h2 align="left">Hi, I'm Kevin</h1>
+<h4 align="left">A Web developer/ML Engineer from Rwanda, East Africa</h3>
 
-<h1 align="left">Hi 👋, I'm Kevin</h1>
+- I’m currently pursuing my Bachelor's degree in Software Engineering at African Leadership University.
 
-<h3 align="left">A Full Stack Web developer from Rwanda, East Africa</h3>
+- Currently learning **Machine Learning.**
 
-- 🔭 I’m currently **pursuing my Bachelor's degree in Software Engineering at ALU (African Leadership University), 2024 to 2027.**
+- Check out some of my projects [kevinmk.onrender.com](kevinmk.onrender.com)
 
-- 🌱 I’m currently learning **Next js**
-
-- 👨‍💻 All of my projects are available at [kevinmk.onrender.com](kevinmk.onrender.com)
-
-- 📫 How to reach me **mbonimpayekevin@gmail.com**
-
-- ⚡ Fun fact about me is that, **I like to create Hooks For catching bugs 😎**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Links</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevinkaneza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin kaneza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevinkaneza" target="blank"><img align="center" src="https://files.softicons.com/download/android-icons/flat-icons-add-on-1-by-martz90/png/256x256/linkedin.png" alt="kevin kaneza" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/mbonikev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124037.png" alt="kevinkaneza" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://roadmap.sh/u/mbonikev" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/120650344?s=200&v=4" alt="kevinkaneza" height="32" width="32" /></a>&nbsp;&nbsp;
+<a href="https://peerlist.io/kevinkaneza" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" alt="kevinkaneza" height="32" width="32" /></a>
 </p>
-
 
