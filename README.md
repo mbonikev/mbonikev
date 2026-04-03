@@ -5,7 +5,7 @@
 
 - Currently learning **Machine Learning.**
 
-- Check out some of my projects [kevinmk.onrender.com](kevinmk.onrender.com)
+- Check out some of my projects [kevinmk.onrender.com](https://kevinmk.onrender.com)
 
 <h3 align="left">Social Links</h3>
 <p align="left">
