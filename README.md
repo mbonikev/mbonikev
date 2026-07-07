@@ -3,4 +3,4 @@
 
 - I'm currently pursuing my Bachelor's degree in Software Engineering at African Leadership University.
 - Currently learning **Machine Learning.**
-- Check out some of my projects on <a href="https://kevinmk.onrender.com" target="_blank" rel="noopener noreferrer">My Portfolio</a>
+- Check out some of my projects on <a href="https://www.mbonikev.site" target="_blank" rel="noopener noreferrer">mbonikev.site</a>
